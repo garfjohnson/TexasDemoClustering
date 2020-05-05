@@ -1,0 +1,2 @@
+# Texas Demographic Segmentation
+This project will utilize unsupervised clustering techniques to segment the population of Texas based on census data. Each row in this data represents a census tract, which is more or less the equivalent of a neighborhood. The results of this model are intended to provide value to any entity such as a political campaign or marketing team trying to gain insight into the different segments of Texas' population. 
